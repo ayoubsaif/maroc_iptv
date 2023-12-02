@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Al Aoula Inter" tvg-language="Arabic" tvg-id="AlAoula.ma" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/alaoulax2.png" group-title="MAROC",Al Aoula Inter
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-name="2M Maroc" tvg-language="Arabic" tvg-id="2MMaroc.ma" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/2M_TV_logo.svg/1200px-2M_TV_logo.svg.png" group-title="MAROC",2M Maroc
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arryadia" tvg-language="Arabic" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/arriyadia.png" group-title="MAROC",Arryadia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arrabiaa" tvg-language="Arabic" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/attakafiya.png" group-title="MAROC",Arrabiaa
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Maghribia" tvg-language="Arabic" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/almaghribiax2.png" group-title="MAROC",Al Maghribia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Assadissa" tvg-language="Arabic" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/assadissax2.png" group-title="MAROC",Assadissa
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tamazight" tvg-language="Arabic" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/tamazightx2.png" group-title="MAROC",Tamazight
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Aoula Laayoune" tvg-language="Arabic" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/laayounex2.png" group-title="MAROC",Al Aoula Laayoune
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M24 TV" tvg-language="Arabic" tvg-logo="https://i.imgur.com/J7GdM3L.png" group-title="MAROC",M24 TV
+https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Medi 1 TV" tvg-language="French" tvg-logo="https://www.medi1tv.com/assets/imgs/medi1_circule_mg.png" group-title="MAROC",Medi 1 TV
+https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="" tvg-name="Medi 1 TV Arabic" tvg-language="Arabic" tvg-logo="https://www.medi1tv.com/assets/imgs/medi1_circule_ar.png" group-title="MAROC",Medi 1 TV Arabic
+https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="" tvg-name="Medi 1 TV Afrique" tvg-language="French" tvg-logo="https://www.medi1tv.com/assets/imgs/medi1_circule.png" group-title="MAROC",Medi 1 TV Afrique
+https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="" tvg-name="Télé Maroc" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="MAROC",Télé Maroc
+http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-language="Arabic" tvg-logo="https://shahid.mbc.net/mediaObject/Waseem/Stories0/mbc-1/original/mbc-1.png?height=auto&width=500&type=png" group-title="MBC",MBC 1
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC MASR" tvg-language="Arabic" tvg-logo="https://shahid.mbc.net/mediaObject/Waseem/Stories0/mbc-msr-1/original/mbc-msr-1.png?height=auto&width=500&type=png" group-title="MBC",MBC MASR
+https://d1ek3bo2xp7led.cloudfront.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC Drama" tvg-language="Arabic" tvg-logo="https://www.mbc.net/dam/jcr:74d5c50e-e87a-4103-92ec-52860469aece/mbc-drama.png" group-title="MBC",MBC Drama
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC Bollywood" tvg-language="Arabic" tvg-logo="https://www.mbc.net/dam/jcr:be832134-6b59-4e3c-87bd-c2550667342d/mbc-bollywood.png" group-title="MBC",MBC Bollywood
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-language="Arabic" tvg-logo="https://www.mbc.net/dam/jcr:be832134-6b59-4e3c-87bd-c2550667342d/mbc-bollywood.png" group-title="MBC",MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-language="Arabic" tvg-logo="https://shahid.mbc.net/mediaObject/Waseem/Stories0/mbc-5/original/mbc-5.png?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="MBC",MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
